@@ -7,7 +7,7 @@
     "light": "#7A75B5",
     "dark": "#7A75B5"
   },
-  "favicon": "/symbol.jpg",
+  "favicon": "/logo/logo.jpg",
   "navigation": {
     "tabs": [
       {
@@ -24,7 +24,16 @@
             "group": "Essentials",
             "pages": [
               "essentials/connectwallet",
-              "essentials/wallet"
+              "essentials/wallet",
+              "essentials/address-books",
+              "essentials/payments",
+              "essentials/deposits"
+            ]
+          },
+          {
+            "group": "FAQs",
+            "pages": [
+              "faq/fees"
             ]
           }
         ]
@@ -34,12 +43,12 @@
       "anchors": [
         {
           "anchor": "Website",
-          "href": "https://mintlify.com/docs",
+          "href": "https://solarapay.fun",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Discord",
-          "href": "https://mintlify.com/community",
+          "href": "https://discord.gg/cdDyym5BgH",
           "icon": "discord"
         }
       ]
