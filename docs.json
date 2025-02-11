@@ -26,6 +26,7 @@
               "essentials/connectwallet",
               "essentials/wallet",
               "essentials/address-books",
+              "essentials/payroll",
               "essentials/payments",
               "essentials/deposits"
             ]
@@ -33,7 +34,8 @@
           {
             "group": "FAQs",
             "pages": [
-              "faq/fees"
+              "faq/fees",
+              "faq/schedules"
             ]
           }
         ]
